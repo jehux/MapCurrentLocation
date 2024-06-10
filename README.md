@@ -6,8 +6,8 @@ Este proyecto es una aplicación de Android que muestra la ubicación actual del
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](https://github.com/jehux/MapCurrentLocation/app/src/main/res/drawable/captura_uno.jpg)
-![Captura de Pantalla 2](https://github.com/jehux/MapCurrentLocation/app/src/main/res/drawable/captura_dos.jpg)
+![Captura de Pantalla 1](https://github.com/jehux/MapCurrentLocation/screensshots/screen_1.jpg)
+![Captura de Pantalla 2](https://github.com/jehux/MapCurrentLocation/screensshots/screen_2.jpg)
 
 ## Características
 
